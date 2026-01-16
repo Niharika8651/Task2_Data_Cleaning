@@ -9,8 +9,8 @@
 ## Dataset Used
 House Prices and Medical Appointment No Shows Dataset
 
-## House Prices
-# Steps Performed
+# House Prices
+## Steps Performed
 1. Loaded dataset
 2. Identified missing values
 3. Visualized missing data
